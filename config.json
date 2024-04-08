@@ -11,9 +11,9 @@
     },
     "general": {
       "useResourceIntegration": true,
-      "toggleKey": "m",
+      "toggleKey": "k",
       "toggleCommand": "phone",
-      "defaultLanguage": "en",
+      "defaultLanguage": "pt",
       "showId": false,
       "phoneNumberFormat": "/(\\d{3})(\\d{3})(\\d{4})/"
     },
@@ -99,7 +99,7 @@
     },
     "defaultContacts": [],
     "disabledApps": ["BROWSER"],
-    "apps": ["npwd_qbx_mail", "npwd_qbx_garages"],
+    "apps": ["pefcl", "npwd_qbx_mail", "npwd_qbx_garages"],
     "voiceMessage": {
       "enabled": true,
       "authorizationHeader": "Authorization",
